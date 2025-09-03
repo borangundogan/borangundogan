@@ -6,7 +6,7 @@ I focus on developing end-to-end AI systems, from experimenting with new models 
 ---
 
 - 🌍 I’m based in Erlangen, Germany  
-- 📫 You can contact me at **boran.gundogan@example.com**   
+- 📫 You can contact me at **borangundogan46@gmail.com**   
 - 🧠 Developing expertise in transforming AI research into scalable, real-world systems  
 
 ---
