@@ -1,16 +1,22 @@
-## Hi there 👋
+## AI Researcher & Engineer
 
-<!--
-**borangundogan/borangundogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a community-driven AI researcher and MSc student in Artificial Intelligence at **FAU Erlangen-Nürnberg**.  
+I focus on developing end-to-end AI systems, from experimenting with new models to deploying practical solutions. My work combines research and implementation, where I explore emerging methods in machine learning and continuously test their potential in real-world applications. I’m especially interested in transforming complex ideas into scalable systems that can simplify workflows, improve efficiency, and open new possibilities for how we use AI in everyday life.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 I’m based in Erlangen, Germany  
+- 📫 You can contact me at **boran.gundogan@example.com**   
+- 🧠 Developing expertise in transforming AI research into scalable, real-world systems  
+
+---
+
+## ⚡ Debugging Philosophy  
+If it works → Engineering  
+If it fails → Research  
+
+---
+
+## 📊 GitHub Stats  
+![Boran's GitHub stats](https://github-readme-stats.vercel.app/api?username=borangundogan&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borangundogan&layout=compact&theme=radical)  
