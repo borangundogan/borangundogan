@@ -5,18 +5,6 @@ I focus on developing end-to-end AI systems, from experimenting with new models 
 
 ---
 
-- 🌍 I’m based in Erlangen, Germany  
-- 📫 You can contact me at **borangundogan46@gmail.com**   
-- 🧠 Developing expertise in transforming AI research into scalable, real-world systems  
-
----
-
-## ⚡ Debugging Philosophy  
-If it works → Engineering  
-If it fails → Research  
-
----
-
-## 📊 GitHub Stats  
-![Boran's GitHub stats](https://github-readme-stats.vercel.app/api?username=borangundogan&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borangundogan&layout=compact&theme=radical)  
+- I’m based in Erlangen, Germany  
+- You can contact me at **borangundogan46@gmail.com**   
+- Developing expertise in transforming AI research into scalable, real-world systems  
